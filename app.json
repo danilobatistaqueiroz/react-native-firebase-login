@@ -19,7 +19,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "br.com.danishq",
+      "googleServicesFile": "./config/google-services.json"
     },
     "web": {
       "bundler": "metro",
@@ -27,6 +29,9 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      ["@react-native-google-signin/google-signin"],
       "expo-router"
     ],
     "experiments": {

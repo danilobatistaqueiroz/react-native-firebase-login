@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166480933010",
+    "project_id": "pushapp-2bbfb",
+    "storage_bucket": "pushapp-2bbfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166480933010:android:f05bb27d5265fc0f89764b",
+        "android_client_info": {
+          "package_name": "br.com.danishq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166480933010-01uj103qvvjhuajfle3hdgdea7p5s28h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.danishq",
+            "certificate_hash": "a43e27ac92d8c46259b9e737ba61ae0b3a9fe6e4"
+          }
+        },
+        {
+          "client_id": "166480933010-hcqrgppv9jtp0dvg5mbaecql5f0uto2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcMnITszPIucOZRe4qqPRQdUhPyDsWawY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166480933010-f4oni815lv02h8neqprg9emkegs249f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
